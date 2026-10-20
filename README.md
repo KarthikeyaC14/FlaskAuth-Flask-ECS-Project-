@@ -1,8 +1,5 @@
 # Flask ECS Project 🚀
 
-Simple flask application on AWS using containerisation with Docker, orchestration via AWS ECS (Elastic Container Service), infrastructure provisioning via Terraform, and CI/CD using Jenkins
-
-
 ## Overview
 
 This project demonstrates deploying a simple Flask application on AWS using containerization with Docker, orchestration via AWS ECS (Elastic Container Service), infrastructure provisioning via Terraform, and CI/CD using Jenkins.
